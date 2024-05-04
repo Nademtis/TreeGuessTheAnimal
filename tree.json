@@ -1,0 +1,27 @@
+{
+    "question": "Is it a mammal?",
+    "yes": {
+      "question": "Does it have stripes?",
+      "yes": {
+        "question": "Is it a zebra?"
+      },
+      "no": {
+        "question": "Is it a lion?"
+      }
+    },
+    "no": {
+      "question": "Is it a bird?",
+      "yes": {
+        "question": "Does it fly",
+        "yes": {
+          "question": "Is it an eagle?"
+        },
+        "no": {
+          "question": "Is it a penguin?"
+        }
+      },
+      "no": {
+        "question": "Is it a gila monster?"
+      }
+    }
+  }

@@ -1,0 +1,9 @@
+body{
+    background-color: beige;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.question{
+    background-color: azure;
+    border: 2px solid black;
+    padding: 15px;
+}
